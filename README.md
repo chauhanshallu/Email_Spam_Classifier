@@ -8,8 +8,8 @@ This project focuses on building an Email Spam Classifier to distinguish between
 
 ### 1. Data Preprocessing
 - Implemented techniques to clean and preprocess email text, including:
--   Tokenization, removal of stopwords, and stemming.
--   Handling missing values and transforming text data into numerical formats using methods like TF-IDF or Bag-of-Words.
+  - Tokenization, removal of stopwords, and stemming.
+  - Handling missing values and transforming text data into numerical formats using methods like TF-IDF or Bag-of-Words.
 
 ### 2. Model Development
 - Explored multiple machine learning algorithms, such as:
