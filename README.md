@@ -33,11 +33,11 @@ This project builds a machine learning-based Email Spam Classifier using the Log
 
   - Trained a Logistic Regression model on the TF-IDF features from the training dataset.
 
-### Model Evaluation:
+### 3. Model Evaluation:
 
   - Measured the model's accuracy on both training and test datasets using accuracy_score.
 
-### Email Classification Examples:
+### 4. Email Classification Examples:
 
   - Demonstrated the classification of sample emails as "spam" or "ham" using the trained model.
 
