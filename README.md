@@ -6,21 +6,21 @@ This project focuses on building an Email Spam Classifier to distinguish between
 
 # Key Contributions
 
-## Data Preprocessing
+## 1. Data Preprocessing
 - Implemented techniques to clean and preprocess email text, including:
 -- Tokenization, removal of stopwords, and stemming.
 -- Handling missing values and transforming text data into numerical formats using methods like TF-IDF or Bag-of-Words.
 
-# Model Development
+## 2. Model Development
 - Explored multiple machine learning algorithms, such as:
 --Naive Bayes, Logistic Regression, and Support Vector Machines (SVM).
 - Tuned hyperparameters to optimize model performance.
 
-# Evaluation and Results
+## 3. Evaluation and Results
 - Evaluated models using metrics like accuracy, precision, recall, and F1-score.
 - Achieved [95% accuracy], demonstrating the effectiveness of the chosen approach.
 
-# Visualization and Documentation
+## 4. Visualization and Documentation
 - Created clear visualizations to represent data distributions, model performance, and feature importance.
 - Documented the entire process in a structured Jupyter Notebook for transparency and reproducibility.
 
